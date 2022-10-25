@@ -1,1 +1,5 @@
 https://web3-ethereum-defi.readthedocs.io/tutorials/uniswap-v3-price-analysis.html
+
+https://medium.com/@TheDeFiac/python-etherscan-api-infura-and-dex-trades-scraping-tutorial-77962bb5bccb
+
+https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/week_1_basics_n_setup/homework.md
