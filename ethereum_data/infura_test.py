@@ -3,7 +3,9 @@
 #pip install etherscan
 # python3 -m pip install etherscan
 
-import Web3, HTTPProvider
+from web3 import Web3, HTTPProvider
+
+
 connection = Web3(HTTPProvider('https://mainnet.infura.io/v3/865751797f4045019b7203001b8c7c91'))
 print ("Latest Ethereum block number", connection.eth.blockNumber)
 
