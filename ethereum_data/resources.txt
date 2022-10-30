@@ -5,3 +5,5 @@ https://medium.com/@TheDeFiac/python-etherscan-api-infura-and-dex-trades-scrapin
 https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/week_1_basics_n_setup/homework.md
 
 https://docs.infura.io/infura/tutorials/ethereum/monitor-transfers-using-python
+
+https://github.com/ethereum/web3.py/blob/master/docs/examples.rst#looking-up-receipts
